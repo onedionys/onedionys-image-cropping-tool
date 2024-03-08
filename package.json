@@ -1,0 +1,41 @@
+{
+  "name": "onedionys-image-cropping-tool",
+  "version": "1.0.0",
+  "description": "One Dionys (Image Cropping Tool) - A tool for interactively cropping images in web applications.",
+  "main": "src/imageCroppingTool.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-image-cropping-tool.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "image-cropping-tool"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-image-cropping-tool/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-image-cropping-tool#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-authentication-tokens-management": "^1.0.0",
+    "onedionys-charting-library-integration": "^1.0.0",
+    "onedionys-image-gallery-component": "^1.0.0",
+    "onedionys-lazy-loading-components": "^1.0.0",
+    "onedionys-websocket-wrapper": "^1.0.0"
+  }
+}
