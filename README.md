@@ -40,6 +40,7 @@ console.log('Cropped image saved at:', croppedImagePath);
 ## 📆 Release Date
 
 * v1.0.0 : 08 March 2024
+* v1.0.1 : 11 March 2024
 
 ## 🧑 Author
 
