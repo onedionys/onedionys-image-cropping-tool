@@ -1,6 +1,6 @@
 {
   "name": "onedionys-image-cropping-tool",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Image Cropping Tool) - A tool for interactively cropping images in web applications.",
   "main": "src/imageCroppingTool.js",
   "directories": {
